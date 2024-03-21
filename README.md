@@ -23,7 +23,11 @@ Please check out the following files
 
 "NYC_Noise_Complaint_Case_Study_Report.pptx" for Report
 "NYC_Noise_Complaint_Case_Study_EDA.ipynb" for the source code
-"311_Service_Requests_from_2010_to_Present.csv" for the dataset.
+
+You can download the "311_Service_Requests_from_2010_to_Present.csv" dataset from the below link
+
+Link to database: https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9?Links to an external site. 
+
 
 
 if you have any questions, please email, ranganathan.s@northeastern.edu
