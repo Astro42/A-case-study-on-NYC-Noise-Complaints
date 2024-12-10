@@ -30,4 +30,4 @@ Link to database: https://nycopendata.socrata.com/Social-Services/311-Service-Re
 
 
 
-if you have any questions, please email, ranganathan.s@northeastern.edu
+
